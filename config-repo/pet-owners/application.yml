@@ -1,0 +1,4 @@
+email:
+  hostName: remote
+  port: 1234
+  from: moniqq@remote
